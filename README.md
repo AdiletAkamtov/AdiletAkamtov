@@ -1,4 +1,4 @@
-![Header](https://github.com/AdiletAkamtov/AdiletAkamtov/blob/main/assets/AdiletAkamtov.gif)]
+[![Header](https://github.com/AdiletAkamtov/AdiletAkamtov/blob/main/assets/AdiletAkamtov.gif)](https://t.me/kagehage)
 
 ## Hi all, my name is Adilet Akmatov, I am from Bishkek (Kyrgyzstan)!
 ## I am a frontend developer, in short about myself #code #js #anime #cars #AMG
@@ -8,15 +8,7 @@
 
 ## My Projects (We click on the incock of the project to watch! / кликаем по инконке проекта что бы поссмотреть !)
 
-
-
-![Vue-Chat-Akmatov](https://img.shields.io/badge/-Vuechatakmatov-8C4ACC?style=for-the-badge&logo=firebase?link=http://left&link=https://vue-chat-akmatov.web.app/)https://vue-chat-akmatov.web.app/
-
-![chat](https://img.shields.io/endpoint?url=https://vue-chat-akmatov.web.app/&style<STYLE>)
-
-
-
-
+[![vue-chat-akmatov](https://img.shields.io/badge/-VueChatAkmatov-8C4ACC?style=for-the-badge&logo=v)](https://vue-chat-akmatov.web.app/)
 
 
 
