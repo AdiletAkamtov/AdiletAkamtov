@@ -5,6 +5,12 @@
 
 <br>
 
+## Statistics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiletakamtov&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 ## My Projects (We click on the incock of the project to watch! / кликаем по инконке проекта что бы поссмотреть !)
 
 ### vue
@@ -51,7 +57,5 @@
 [![whatsapp](https://img.shields.io/badge/-whatsapp-6236FF?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=996222222327)
 
 
-## Statistics
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiletakamtov&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+a
 
