@@ -6,7 +6,7 @@
 
 My Projects
 
-![link] (https://vue-chat-akmatov.web.app/)
+![Vue-Chat-Akmatov](https://img.shields.io/badge/-Vuechatakmatov-8C4ACC?style=for-the-badge&logo=firebase?link=http://left&link=https://vue-chat-akmatov.web.app/)
 
 ### Languages and tools
 
