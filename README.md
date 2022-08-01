@@ -3,6 +3,9 @@
 ## Hi all, my name is Adilet Akmatov, I am from Bishkek (Kyrgyzstan)!
 ## I am a frontend developer, in short about myself style #code #js #anime #cars #AMG #game
 
+
+![](https://komarev.com/ghpvc/?username=AdiletAkmatov)
+
 <br>
 
 ## My Projects (We click on the incock of the project to watch! / кликаем по инконке проекта что бы поссмотреть !)
@@ -56,5 +59,7 @@
 ## Statistics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiletakamtov&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/AdiletAkamtov/badges/large)](https://www.codewars.com/users/username)
 
 
