@@ -10,7 +10,7 @@
 
 
 
-![Vue-Chat-Akmatov](https://img.shields.io/badge/-Vuechatakmatov-8C4ACC?style=for-the-badge&logo=firebase?link=http://left&link=https://vue-chat-akmatov.web.app/)
+![Vue-Chat-Akmatov](https://img.shields.io/badge/-Vuechatakmatov-8C4ACC?style=for-the-badge&logo=firebase?link=http://left&link=https://camo.githubusercontent.com/39722da92b601e279ac363d0e816bf57da38d2254b423f9ab83e5797d646d2c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56756563686174616b6d61746f762d3843344143433f7374796c653d666f722d7468652d6261646765266c6f676f3d66697265626173653f6c696e6b3d687474703a2f2f6c656674266c696e6b3d68747470733a2f2f7675652d636861742d616b6d61746f762e7765622e6170702f)
 
 
 
