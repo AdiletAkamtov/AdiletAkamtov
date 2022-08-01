@@ -4,9 +4,24 @@
 ## I am a frontend developer, in short about myself #code #js #anime #cars #AMG
 
 
-My Projects
+<br>_______________________________________________<br>
 
-![Vue-Chat-Akmatov](https://img.shields.io/badge/-Vuechatakmatov-8C4ACC?style=for-the-badge&logo=firebase?link=http://left&link=https://vue-chat-akmatov.web.app/)
+## My Projects (We click on the incock of the project to watch! / кликаем по инконке проекта что бы поссмотреть !)
+
+
+
+![Vue-Chat-Akmatov](https://img.shields.io/badge/-Vuechatakmatov-8C4ACC?style=for-the-badge&logo=firebase?link=https://vue-chat-akmatov.web.app/)
+
+
+
+
+
+
+
+
+
+
+<br>_______________________________________________<br>
 
 ### Languages and tools
 
