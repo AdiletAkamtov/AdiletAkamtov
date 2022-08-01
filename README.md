@@ -1,4 +1,4 @@
-[![Header](https://github.com/AdiletAkamtov/AdiletAkamtov/blob/main/assets/AdiletAkamtov.gif)](https://t.me/kagehage)
+[![Header](https://github.com/AdiletAkamtov/AdiletAkamtov/blob/main/assets/AdiletAkmatov.gif)](https://t.me/kagehage)
 
 ## Hi all, my name is Adilet Akmatov, I am from Bishkek (Kyrgyzstan)!
 ## I am a frontend developer, in short about myself style #code #js #anime #cars #AMG
