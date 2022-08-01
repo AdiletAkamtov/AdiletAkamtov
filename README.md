@@ -13,7 +13,7 @@
 ### vue
 
 [![vue-chat-akmatov](https://img.shields.io/badge/-VueChatAkmatov-00A98F?style=for-the-badge&logo=v)](https://vue-chat-akmatov.web.app/)
-[![vue](https://img.shields.io/badge/-AkmatovBlog-00A98F?style=for-the-badge&logo=v)](https://vue-chat-akmatov.web.app/)
+[![vue](https://img.shields.io/badge/-AkmatovBlog-00A98F?style=for-the-badge&logo=v)](https://adilet-blogs.web.app/)
 ### JavaScript
 
 [![Ajax](https://img.shields.io/badge/-Ajax%7eadd%7euser-0B2343?style=for-the-badge&logo=JavaScript)](https://adiletakamtov.github.io/Less-POST-add-user/)
