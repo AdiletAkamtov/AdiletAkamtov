@@ -1,14 +1,31 @@
 [![Header](https://github.com/AdiletAkamtov/AdiletAkamtov/blob/main/assets/AdiletAkamtov.gif)](https://t.me/kagehage)
 
 ## Hi all, my name is Adilet Akmatov, I am from Bishkek (Kyrgyzstan)!
-## I am a frontend developer, in short about myself #code #js #anime #cars #AMG
+## I am a frontend developer, in short about myself style #code #js #anime #cars #AMG
+
 
 
 <br>_______________________________________________<br>
 
 ## My Projects (We click on the incock of the project to watch! / кликаем по инконке проекта что бы поссмотреть !)
+<br>
+
+### vue
 
 [![vue-chat-akmatov](https://img.shields.io/badge/-VueChatAkmatov-8C4ACC?style=for-the-badge&logo=v)](https://vue-chat-akmatov.web.app/)
+[![vue](https://img.shields.io/badge/-AkmatovBlog-8C4ACC?style=for-the-badge&logo=v)](https://vue-chat-akmatov.web.app/)
+### JavaScript
+
+[![Ajax](https://img.shields.io/badge/-Ajax%7eadd%7euser-8C4ACC?style=for-the-badge&logo=JavaScript)](https://adiletakamtov.github.io/Less-POST-add-user/)
+[![Ajax](https://img.shields.io/badge/-Ajax%7euser%7einfo-8C4ACC?style=for-the-badge&logo=JavaScript)](https://adiletakamtov.github.io/AJAX-User-List/)
+
+
+### HTML / CSS / GULP
+
+[![Ajax](https://img.shields.io/badge/-СТРОЙКОНТРОЛЬ-8C4ACC?style=for-the-badge&logo=HTML5)](https://adiletakamtov.github.io/qCodeHomeWorkAdiletAkmatov/)
+[![Ajax](https://img.shields.io/badge/-Айболит-8C4ACC?style=for-the-badge&logo=pug)](https://adiletakamtov.github.io/AnimalSite/)
+[![Ajax](https://img.shields.io/badge/-COLLUSION-8C4ACC?style=for-the-badge&logo=sass)](https://adiletakamtov.github.io/COLLUSION/)
+[![Ajax](https://img.shields.io/badge/-Crypter-8C4ACC?style=for-the-badge&logo=GULP)](https://adiletakamtov.github.io/crypterFull/)
 
 
 
