@@ -3,10 +3,9 @@
 ## Hi all, my name is Adilet Akmatov, I am from Bishkek (Kyrgyzstan)!
 ## I am a frontend developer, in short about myself style #code #js #anime #cars #AMG
 
-
+<br>
 
 ## My Projects (We click on the incock of the project to watch! / кликаем по инконке проекта что бы поссмотреть !)
-<br>
 
 ### vue
 
@@ -24,9 +23,6 @@
 [![Ajax](https://img.shields.io/badge/-Айболит-8C4ACC?style=for-the-badge&logo=pug)](https://adiletakamtov.github.io/AnimalSite/)
 [![Ajax](https://img.shields.io/badge/-COLLUSION-8C4ACC?style=for-the-badge&logo=sass)](https://adiletakamtov.github.io/COLLUSION/)
 [![Ajax](https://img.shields.io/badge/-Crypter-8C4ACC?style=for-the-badge&logo=GULP)](https://adiletakamtov.github.io/crypterFull/)
-
-
-
 
 <br>
 
