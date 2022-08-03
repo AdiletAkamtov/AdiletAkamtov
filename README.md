@@ -8,7 +8,7 @@
 
 <br>
 
-## My Projects (We click on the incock of the project to watch! / кликаем по инконке проекта что бы поссмотреть !)
+## My Projects (We click on the icon of the project to watch! / Кликаем по иконке проекта, что бы посмотреть !)
 
 ### React + Redux
 [![Marvel](https://img.shields.io/badge/-Marvel-A100FF?style=for-the-badge&logo=react)](https://marvelakmatovsite.herokuapp.com/)
