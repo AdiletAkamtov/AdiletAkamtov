@@ -10,7 +10,9 @@
 
 ## My Projects (We click on the incock of the project to watch! / кликаем по инконке проекта что бы поссмотреть !)
 
-### vue
+### React + Redux
+[![Marvel](https://img.shields.io/badge/-Marvel-A100FF?style=for-the-badge&logo=react)](https://marvelakmatovsite.herokuapp.com/)
+### Vue + Vuex
 
 [![vue-chat-akmatov](https://img.shields.io/badge/-VueChatAkmatov-00A98F?style=for-the-badge&logo=v)](https://vue-chat-akmatov.web.app/)
 [![vue](https://img.shields.io/badge/-AkmatovBlog-00A98F?style=for-the-badge&logo=v)](https://adilet-blogs.web.app/)
