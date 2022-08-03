@@ -12,7 +12,7 @@
 
 ### React + Redux
 [![Marvel](https://img.shields.io/badge/-Marvel-A100FF?style=for-the-badge&logo=react)](https://marvelakmatovsite.herokuapp.com/)
-[![react-technical-task](https://img.shields.io/badge/-react-technical-task-A100FF?style=for-the-badge&logo=react)](https://react-technical-task.herokuapp.com/)
+[![react-technical-task](https://img.shields.io/badge/-reacttechnicaltask-A100FF?style=for-the-badge&logo=react)](https://react-technical-task.herokuapp.com/)
 ### Vue + Vuex
 
 [![vue-chat-akmatov](https://img.shields.io/badge/-VueChatAkmatov-00A98F?style=for-the-badge&logo=v)](https://vue-chat-akmatov.web.app/)
