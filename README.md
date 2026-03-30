@@ -1,65 +1,100 @@
-# Adilet Akmatov | Automation & Infrastructure Engineer
-### Bridging Business Logic with High-Performance Technical Execution
+<div align="center">
 
-[![Dev.to](https://img.shields.io/badge/Technical_Blog-Dev.to-black?style=for-the-badge&logo=dev.to)](https://dev.to/adiletakmatov)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-0088cc?style=for-the-badge&logo=telegram)](https://t.me/AkmatovAdilet)
+# Adilet Akmatov
+### Backend Developer · Automation Engineer · Python Enthusiast
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/adiletakmatov)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/YOUR_LINK)
 
-I am a Technical Operations & Automation Engineer with a unique 8-year background in leading large-scale commercial infrastructures (DNS Kyrgyzstan). In 2024, I strategically pivoted from operational leadership to full-time Engineering, leveraging my deep understanding of business logic to build high-ROI automated systems.
+</div>
 
-Core Engineering: I don't just write scripts; I architect resilient, automation-first backends using Python (FastAPI/Django) and asynchronous ecosystems (Aiogram/FSM).
+## Hey, I'm Adilet 👋
 
-The "Crisis Manager" Edge: My background in field infrastructure and hardware recovery allows me to design systems with a Zero-Trust security mindset and L4-L7 diagnostic depth.
+Before tech, I spent 7+ years managing business operations and sales teams —
+which turned out to be better engineering prep than I expected. I learned to think
+in systems, spot bottlenecks before they become crises, and translate technical
+decisions into business outcomes. Those habits follow me into every codebase.
 
-Technical Focus: Advanced Web Scraping (Playwright/Stealth), Database Architecture (PostgreSQL/SQLAlchemy), and Containerized Microservices (Docker).
+I got into development through the frontend — JavaScript, TypeScript, React, UI/UX.
+But the deeper I went, the more I wanted to understand what actually happens *under
+the hood*. That curiosity led me to Python, then to backend architecture, and
+eventually straight into CPython internals.
 
-Mission: Relocating to Saskatoon, SK (SINP Candidate) to bring technical excellence to the Canadian tech sector.
+Right now my focus is **security-oriented backend development**. I study Computer
+Science at [University of the People](https://uopeople.edu), write technical
+deep-dives on CPython memory management and interpreter internals on
+[Dev.to](https://dev.to/adiletakmatov), and build automation systems that operate
+in adversarial environments — scrapers, bots, async pipelines.
 
-Philosophical North Star: If a process causes financial friction, I automate it. If it’s insecure, I isolate it. If it doesn’t scale, I refactor it.
+I'm early in this path, but I'm building deliberately — with security and
+systems thinking at the core.
 
----
-
-## 🛠 Tech Stack & Expertise
-
-### 🐍 Backend & Automation
-* **Languages:** Python (Advanced), SQL (PostgreSQL, SQLite), JavaScript/TS.
-* **Frameworks:** FastAPI, Django, Aiogram (FSM), SQLAlchemy.
-* **Automation:** Playwright (Stealth), BeautifulSoup, Advanced Web Scraping.
-
-### 🏗 Infrastructure & DevOps
-* **Containerization:** Docker, Docker-Compose.
-* **Linux/Ops:** System Hardening, L4-L7 Diagnostics, Rack Management, VPS Orchestration.
-* **Tools:** Git, Alembic, CI/CD basics.
-
-### 🛡 Security & OSINT
-* Expertise in bypassing anti-fraud systems, browser fingerprinting, and OSINT methodologies.
-* Focus on isolation, obfuscation, and building secure automation ecosystems.
+> 🇨🇦 Relocating to Saskatchewan, Canada · SINP Tech Talent Pathway
 
 ---
 
-## 📈 Featured Projects
-> **Note:** For deep-dives into CPython internals and memory management, visit my [Dev.to articles](https://dev.to/adiletakmatov).
+## What I Work With
 
-### [Project Name 1: Advanced Scraping Ecosystem]
-*Automated competitor price monitoring for high-scale retail operations.*
-* **Tech:** Python, Playwright, Docker, PostgreSQL.
-* **Impact:** Reduced manual data collection time by 90%, increasing pricing agility.
+### Backend & Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### [Project Name 2: Telegram Business OS]
-*Comprehensive ecosystem for managing business processes via Aiogram.*
-* **Tech:** Python, Aiogram (FSM), Redis, Async SQLAlchemy.
+### Python Ecosystem
+`Aiogram` · `Playwright` · `Selenium` · `SQLAlchemy` · `Pandas` · `Requests` · `BeautifulSoup` · `Asyncio`
+
+### Currently Learning
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+`CPython Internals` · `Security & Network Hardening`
+
+### Came From (still use when needed)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+---
+
+### 🤖 Telegram Bots
+| Project | Stack |
+|---|---|
+| Business Workflow Bot | Aiogram, FSM, Redis, SQLAlchemy, CryptoBot, TelegaPay |
+| Telegram Shop Bot | Aiogram, inline keyboards, payment integration |
+| Notification & Alert Bot | Aiogram, asyncio, PostgreSQL |
+| Admin Panel Bot | Aiogram, FSM, role-based access, SQLite |
+
+### 🕷️ Scrapers & Parsers
+| Project | Stack |
+|---|---|
+| Price Monitoring System | Playwright, PostgreSQL, Docker, proxy rotation |
+| Instagram Profile Monitor | Selenium, SQLite, activity tracking |
+| E-commerce Product Parser | BeautifulSoup, Requests, PostgreSQL |
+| Multi-site Price Aggregator | Playwright, Pandas, anti-detection headers |
+| News & Content Parser | Requests, BS4, SQLite |
+
+### 📊 Data & Automation
+| Project | Stack |
+|---|---|
+| Excel Report Automation | Pandas, OpenPyXL, scheduled tasks |
+| Data Pipeline & ETL scripts | Pandas, PostgreSQL, asyncio |
+| Retail Analytics Dashboard | Pandas, SQLite, CSV exports |
+
+### 🔐 Anti-Detection & Network
+| Project | Stack |
+|---|---|
+| Multi-Account Automation System | Python, SOCKS5, rotating proxies |
+| Proxy Rotation Manager | Python, SOCKS5/HTTP, health checks |
+| VPN/Proxy Infrastructure | Docker, private VPS, network isolation |
+| Fingerprint Bypass Toolkit | Playwright Stealth, IxoBrowser, BAS |
+
+> 📝 Technical deep-dives → [Dev.to](https://dev.to/adiletakmatov)
 
 ---
 
-## 📊 Technical Stats & Activity
-![Adilet's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiletAkamtov&show_icons=true&theme=transparent&hide_border=true&title_color=00A98F&icon_color=A100FF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiletAkamtov&layout=compact&theme=transparent&hide_border=true&title_color=00A98F)
+<div align="center">
 
----
+**Open to backend / automation roles · Relocating to Saskatoon, SK 🇨🇦**
 
-## 🇨🇦 The Road to Saskatchewan
-I am actively preparing for the Canadian tech market, focusing on **Saskatoon-based** opportunities (Vendasta, 7shifts, Nutrien). Every commit is a tactical step toward professional excellence and family stability.
-
-*“Technical milestones are tactical steps toward securing the future.”*
+</div>
