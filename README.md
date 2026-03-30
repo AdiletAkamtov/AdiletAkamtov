@@ -7,12 +7,17 @@
 
 ---
 
-## 🚀 Professional Profile
-I am a **Business-Minded Automation Engineer** with 8+ years of experience in commercial operations leadership and 2+ years of intensive pivot into Technical Operations. I specialize in building resilient, automation-first systems that solve real-world financial friction.
+I am a Technical Operations & Automation Engineer with a unique 8-year background in leading large-scale commercial infrastructures (DNS Kyrgyzstan). In 2024, I strategically pivoted from operational leadership to full-time Engineering, leveraging my deep understanding of business logic to build high-ROI automated systems.
 
-* **Current Focus:** Mastering Backend Engineering (FastAPI, Django) & System Hardening.
-* **Target:** Relocating to **Saskatoon, SK (Canada)** via SINP Tech Talent Pathway.
-* **Philosophy:** Infrastructure as Code, Zero-Trust security, and ROI-driven development.
+Core Engineering: I don't just write scripts; I architect resilient, automation-first backends using Python (FastAPI/Django) and asynchronous ecosystems (Aiogram/FSM).
+
+The "Crisis Manager" Edge: My background in field infrastructure and hardware recovery allows me to design systems with a Zero-Trust security mindset and L4-L7 diagnostic depth.
+
+Technical Focus: Advanced Web Scraping (Playwright/Stealth), Database Architecture (PostgreSQL/SQLAlchemy), and Containerized Microservices (Docker).
+
+Mission: Relocating to Saskatoon, SK (SINP Candidate) to bring technical excellence to the Canadian tech sector.
+
+Philosophical North Star: If a process causes financial friction, I automate it. If it’s insecure, I isolate it. If it doesn’t scale, I refactor it.
 
 ---
 
