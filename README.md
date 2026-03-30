@@ -3,7 +3,7 @@
 
 [![Dev.to](https://img.shields.io/badge/Technical_Blog-Dev.to-black?style=for-the-badge&logo=dev.to)](https://dev.to/adiletakmatov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-0088cc?style=for-the-badge&logo=telegram)](https://t.me/kagehage)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-0088cc?style=for-the-badge&logo=telegram)](https://t.me/AdiletAkamtov)
 
 ---
 
