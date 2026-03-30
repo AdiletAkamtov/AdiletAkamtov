@@ -1,100 +1,79 @@
 <div align="center">
 
 # Adilet Akmatov
-### Backend Developer · Automation Engineer · Python Enthusiast
+### Backend & Automation Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adilet-akmatov)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/adiletakmatov)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/YOUR_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdiletAkamtov)
 
 </div>
 
-## Hey, I'm Adilet 👋
+---
 
-Before tech, I spent 7+ years managing business operations and sales teams —
-which turned out to be better engineering prep than I expected. I learned to think
-in systems, spot bottlenecks before they become crises, and translate technical
-decisions into business outcomes. Those habits follow me into every codebase.
+Backend engineer focused on **automation systems**, **adversarial scraping infrastructure**,
+and **async Python**. I came from 8 years of operations management — which shaped
+how I think about reliability: systems break in production, so I build with failure as
+a first-class concern.
 
-I got into development through the frontend — JavaScript, TypeScript, React, UI/UX.
-But the deeper I went, the more I wanted to understand what actually happens *under
-the hood*. That curiosity led me to Python, then to backend architecture, and
-eventually straight into CPython internals.
-
-Right now my focus is **security-oriented backend development**. I study Computer
-Science at [University of the People](https://uopeople.edu), write technical
-deep-dives on CPython memory management and interpreter internals on
-[Dev.to](https://dev.to/adiletakmatov), and build automation systems that operate
-in adversarial environments — scrapers, bots, async pipelines.
-
-I'm early in this path, but I'm building deliberately — with security and
-systems thinking at the core.
-
-> 🇨🇦 Relocating to Saskatchewan, Canada · SINP Tech Talent Pathway
+Currently: **IT Field Specialist @ DNS Kyrgyzstan** · Learning: FastAPI · pytest · TryHackMe  
+Education: **B.S. Computer Science — University of the People** (2026)  
+Relocating to **Saskatoon, SK** · SINP Tech Talent Pathway candidate
 
 ---
 
-## What I Work With
+## Technical Stack
 
-### Backend & Automation
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+**Languages:** Python (asyncio, CPython internals), SQL, Bash  
+**Backend:** FastAPI, Django, Aiogram (FSM), SQLAlchemy, Alembic  
+**Infrastructure:** Docker, Redis, PostgreSQL, Linux/VPS, ZeroTier, Git  
+**Networking:** SOCKS5/HTTP proxy orchestration, L4–L7 diagnostics, overlay VPN  
+**Anti-Detection:** Playwright Stealth, fingerprint obfuscation, Cloudflare/Akamai bypass, IxoBrowser
 
-### Python Ecosystem
-`Aiogram` · `Playwright` · `Selenium` · `SQLAlchemy` · `Pandas` · `Requests` · `BeautifulSoup` · `Asyncio`
-
-### Currently Learning
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-`CPython Internals` · `Security & Network Hardening`
-
-### Came From (still use when needed)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ---
 
-### 🤖 Telegram Bots
-| Project | Stack |
-|---|---|
-| Business Workflow Bot | Aiogram, FSM, Redis, SQLAlchemy, CryptoBot, TelegaPay |
-| Telegram Shop Bot | Aiogram, inline keyboards, payment integration |
-| Notification & Alert Bot | Aiogram, asyncio, PostgreSQL |
-| Admin Panel Bot | Aiogram, FSM, role-based access, SQLite |
+## Production Incidents & Real Wins
 
-### 🕷️ Scrapers & Parsers
-| Project | Stack |
-|---|---|
-| Price Monitoring System | Playwright, PostgreSQL, Docker, proxy rotation |
-| Instagram Profile Monitor | Selenium, SQLite, activity tracking |
-| E-commerce Product Parser | BeautifulSoup, Requests, PostgreSQL |
-| Multi-site Price Aggregator | Playwright, Pandas, anti-detection headers |
-| News & Content Parser | Requests, BS4, SQLite |
+**🔴 Emergency Network Recovery @ DNS**  
+ISP outage threatened full retail operations. Configured a ZeroTier overlay VPN on-site,
+bridged isolated workstations, and restored all critical systems — without waiting for
+ISP response. Zero data loss, minimal downtime.
 
-### 📊 Data & Automation
-| Project | Stack |
-|---|---|
-| Excel Report Automation | Pandas, OpenPyXL, scheduled tasks |
-| Data Pipeline & ETL scripts | Pandas, PostgreSQL, asyncio |
-| Retail Analytics Dashboard | Pandas, SQLite, CSV exports |
+**📊 Procurement Analytics Tool @ DNS**  
+Built an internal Python tool for price tracking across vendor contracts (Xiaomi, TP-Link, Artel).
+Replaced manual spreadsheet workflows. Used daily by procurement team.
 
-### 🔐 Anti-Detection & Network
-| Project | Stack |
-|---|---|
-| Multi-Account Automation System | Python, SOCKS5, rotating proxies |
-| Proxy Rotation Manager | Python, SOCKS5/HTTP, health checks |
-| VPN/Proxy Infrastructure | Docker, private VPS, network isolation |
-| Fingerprint Bypass Toolkit | Playwright Stealth, IxoBrowser, BAS |
+---
 
-> 📝 Technical deep-dives → [Dev.to](https://dev.to/adiletakmatov)
+## Selected Projects
+
+### Adversarial Scraping Infrastructure
+Distributed scraper targeting high-protection surfaces (Akamai, Cloudflare, TLS fingerprinting).
+Monitors **10+ marketplaces** in real-time with Telegram alerting and PostgreSQL data pipelines.  
+Stack: Python · Playwright Stealth · SOCKS5 proxy mesh · PostgreSQL
+
+### Proxy Orchestration Engine
+Custom rotation manager with per-proxy health checks, automatic failover, and latency-based routing.
+Supports residential, datacenter, and mobile proxy pools simultaneously.  
+Stack: Python · asyncio · Redis · Docker
+
+### Telegram Business Automation Suite
+Production bots with FSM-based onboarding, multi-layer payment flows (CryptoBot, TelegaPay),
+and RBAC admin panels. Serving active paying users.  
+Stack: Aiogram · asyncio · Redis · PostgreSQL · Alembic
+
+---
+
+## Recognition
+
+- 🏆 Republican Programming Championship — participant
+- 🛠️ Certified Computer & Laptop Repair Master
+- 📝 Technical writing: [dev.to/adiletakmatov](https://dev.to/adiletakmatov)
 
 ---
 
 <div align="center">
 
-**Open to backend / automation roles · Relocating to Saskatoon, SK 🇨🇦**
+*Open to Backend & Automation roles · Saskatoon, SK 🇨🇦*
 
 </div>
