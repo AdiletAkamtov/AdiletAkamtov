@@ -1,67 +1,40 @@
 # Adilet Akmatov
-### Backend & Automation Engineer | Infrastructure Strategy
 
-> **"Systems break in production, so I build with failure as a first-class concern."**
+### Founder of [Nemiget](https://nemiget.com), an engineering studio
 
----
+I build software that keeps working for years: AI assistants grounded in real data, chatbots for Telegram, WhatsApp and Instagram, websites and backend services that handle load and withstand attacks.
 
-## 🚀 Professional Profile
-Backend engineer specialized in **resilient automation systems**, **adversarial scraping infrastructure**, and **asynchronous Python**. I bridge the gap between complex business logic and high-performance technical execution.
-
-* **Background:** 8 years in operations management, transitioned to full-time engineering.
-* **Current:** IT Field Specialist @ DNS Kyrgyzstan (Infrastructure & Automation).
-* **Target:** Relocating to **Saskatoon, SK** (SINP Tech Talent Pathway candidate).
-* **Education:** B.S. Computer Science — University of the People (Expected 2026).
+Before engineering I spent 8+ years in retail operations, so I look at every task from the business side too: margins, risks and what happens when traffic grows.
 
 ---
 
-## 🛠 Technical Stack
+## Products
 
-| Category | Technologies |
+- **[Levroc](https://levroc.com)** — POS, inventory, orders, a shop website and an AI sales assistant on one product catalogue. The assistant answers customers with live prices and stock only.
+  `Python` `FastAPI` `PostgreSQL` `pgvector` `React` `Rust`
+- **[Dicamus](https://dicamus.com)** — AI self-help service. Every reply goes through five agents, a plain-code safety net sits under the risk classifier, and long-term memory is a temporal knowledge graph. [How it's built →](https://dev.to/adiletakmatov/building-an-ai-for-hard-conversations-five-agents-one-safety-regex-and-a-supervisor-who-graded-53ic)
+  `Python` `LLM` `RAG` `Neo4j` `Graphiti`
+- **[Secret Mate](https://secret-mate.space)** — anonymous chat with AI characters that remember the conversation; the model is picked by price and availability.
+  `Python` `FastAPI` `PostgreSQL`
+
+Client projects are under NDA, so most repositories here are private.
+
+## Stack
+
+| | |
 | :--- | :--- |
-| **Languages** | Python (Asyncio, CPython Internals), SQL, Bash |
-| **Backend** | FastAPI, Django, Aiogram (FSM), SQLAlchemy, Alembic |
-| **Infrastructure** | Docker, Redis, PostgreSQL, Linux/VPS, ZeroTier, Git |
-| **Networking** | SOCKS5/HTTP Proxy Orchestration, L4–L7 Diagnostics, Overlay VPN |
-| **Security** | Playwright Stealth, Fingerprint Obfuscation, Cloudflare/Akamai Bypass |
+| **Languages** | Python (asyncio), SQL, TypeScript, Bash |
+| **Backend** | FastAPI, Django, aiogram, SQLAlchemy, PostgreSQL, Redis |
+| **AI** | RAG (pgvector, Qdrant, Neo4j), LLM evaluation, guardrails |
+| **Infrastructure** | Docker, Linux, Caddy, CI/CD, encrypted backups |
+| **Protection** | WAF, rate limiting, bot and fraud protection |
 
----
+## Writing
 
-## 🔴 Production Incidents & Real Wins
+- [Building an AI for hard conversations: five agents, one safety regex, and a supervisor who graded us blind](https://dev.to/adiletakmatov/building-an-ai-for-hard-conversations-five-agents-one-safety-regex-and-a-supervisor-who-graded-53ic)
+- [FastAPI Security 100 LVL: Production-Grade DDoS Protection](https://dev.to/adiletakmatov/fastapi-security-100-lvl-production-grade-ddos-protection-162k)
+- [Python Internals I Wish I Knew](https://dev.to/adiletakmatov/spend-10-minutes-to-know-more-than-90-of-python-developers-unlocking-senior-level-secrets-9b4)
 
-### **Emergency Network Recovery**
-* **Context:** A major ISP outage threatened full retail operations. 
-* **Action:** Configured a **ZeroTier overlay VPN** on-site, bridged isolated workstations, and restored critical systems without waiting for ISP response.
-* **Impact:** Zero data loss, minimal downtime, 100% operational continuity.
+## Contact
 
-### **Procurement Analytics Tool**
-* **Context:** Manual spreadsheet workflows were slowing down vendor price tracking (Xiaomi, TP-Link, Artel).
-* **Action:** Built a custom Python automation tool for real-time price tracking and contract analysis.
-* **Impact:** Fully replaced manual workflows; currently used daily by the procurement team.
-
----
-
-## 📂 Selected Projects
-
-### **Adversarial Scraping Infrastructure**
-Distributed scraper targeting high-protection surfaces (Akamai, Cloudflare, TLS fingerprinting). 
-* **Stack:** Python, Playwright Stealth, SOCKS5 Proxy Mesh, PostgreSQL.
-* **Features:** Real-time marketplace monitoring, Telegram alerting, automated data pipelines.
-
-### **Proxy Orchestration Engine**
-Custom rotation manager with per-proxy health checks, automatic failover, and latency-based routing.
-* **Stack:** Python (Asyncio), Redis, Docker.
-* **Capability:** Supports residential, datacenter, and mobile proxy pools simultaneously.
-
----
-
-## 🏆 Recognition & Activity
-* **🏆 Republican Programming Championship** — Participant.
-* **🛠️ Certified Computer & Laptop Repair Master** — Hardware & low-level diagnostics.
-* **📝 Technical Writing** — Deep-dives on [dev.to/adiletakmatov](https://dev.to/adiletakmatov).
-
----
-
-<div align="center">
-  <strong>Open to Backend & Automation roles | Saskatoon, SK 🇨🇦</strong>
-</div>
+[nemiget.com](https://nemiget.com) · Telegram [@Nemiget_bot](https://t.me/Nemiget_bot) · [LinkedIn](https://www.linkedin.com/in/adilet-akmatov/) · [dev.to](https://dev.to/adiletakmatov)
